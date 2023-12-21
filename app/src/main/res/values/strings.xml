@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChaiSpot</string>
+    <string name="title_home">Home</string>
+    <string name="title_map">Map</string>
+    <string name="title_favourites">Favourites</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="place_key">AIzaSyDOjISurYOU6EbciAP7paYZFc-m3aja7uM</string>
+</resources>
